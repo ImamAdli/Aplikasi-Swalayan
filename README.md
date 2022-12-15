@@ -1,6 +1,9 @@
 # Aplikasi-Swalayan
 ini adalah aplikasi kasir swalayan/minimarket 
 
+DOWNLOAD DISINI
+https://drive.google.com/drive/folders/1ydKvmW7dB9185_JG5CR_lyTt0-DNlt8_?usp=sharing
+
 TOLONG DIBACA JIKA PERLU
 Aplikasi ini dibuat dan dikerjakan menggunakan aplikasi netbeans ver 15
 
